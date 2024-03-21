@@ -6,6 +6,7 @@ Used:
 - Redis
 - OAuth 2.0
 - Stripe
+- Django Rest Framework
 
 Local Developing
     
